@@ -1,0 +1,206 @@
+<style>
+  @media screen and (max-width: 600px) {
+    .content {
+        width: 100% !important;
+        display: block !important;
+        padding: 10px !important;
+    }
+    .header, .body, .footer {
+        padding: 20px !important;
+    }
+  }
+</style>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Public Interest Technologist Sept/Oct 2024 Issue </title>
+    <style>
+        /* Reset styles */
+        body, h1, h2, h3, p {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f1f1f1 ;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background-color: #ffffff;
+            color: #255198;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin-bottom: 10px;
+        }
+
+        .content {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        .article {
+            margin-bottom: 20px;
+        }
+
+        .article h2 {
+            color: #2c2b2b;
+        }
+
+        .article h3 {
+            color: #737d86;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .footer p {
+            color: #777777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <br>
+          <center>
+            <img src="https://technologist.mit.edu/content/images/2023/05/pit-dark-logo-6.svg" />
+            </center>
+            <br>
+            <br>
+            <h1>The MIT Public Interest Technologist </h1>
+          <br>
+            <p>Sept / Oct 2024 Issue</p>
+        </div>
+
+        <div class="content">
+
+            <div class="article">
+        <br>
+                <h3>About the Public Interest Technologist </h3>
+                 <br>
+                 <p> The Public Interest Technologist is a new online publication aimed at helping the MIT community think together about the social responsibilities of students, faculty, staff and alumni who design and implement technologies of various kinds. </p>
+            </div>
+          <br>
+             <center>
+             <img src="https://technologist.mit.edu/content/images/2023/05/pit-dark-logo-6.svg" alt="centered image" width="30" height="30"/>
+            </center>
+            <br>
+            <div class="article">
+                <h2>Featured Interviews </h2>
+
+                 <h4><span>💡</span> Hear from   MIT community members and how they define public interest technology in their work, research, and beyond.</h4>
+          <br>
+
+              <img src="https://technologist.mit.edu/content/images/size/w2000/2024/05/headshot_Ovienmhada.jpg.800x800-cropped.jpg" alt="centered image" width="200" height="200"/>
+              <br>
+                <h3>Measuring Environmental Harm in Prison Landscapes: Geospatial Technology in the service of Grassroots Organizing with Ufuoma Ovienmhada, PhD student in Aeronautics and Astronautics</h3>
+                <p><a href="https://technologist.mit.edu/grassroots-organizing-ufuoma-ovienmhada/">Read More</a></p>
+                <br>
+            <img src="https://technologist.mit.edu/content/images/size/w2000/2024/05/Sara-Beery-updated-1.jpeg" width="200" height="200"/>
+            <br>
+                <h3>AI for Conservation and Community Building: an interview with Sara Beery, Assistant Professor of Electrical Engineering and Computer Science</h3>
+                <p><a href="https://technologist.mit.edu/ai-for-conservation-sara-beery/">Read More</a></p>
+
+                <br>
+                <img src="https://technologist.mit.edu/content/images/size/w2000/2024/05/TGG-2019-2.png" alt="centered image" width="200" height="200"/>
+                <br>
+                 <h3>Integrating Public Interest Technology in Mechanical Engineering Education: an Interview with Tim Gutowski, Professor of Mechanical Engineering</h3>
+                <p><a href="https://technologist.mit.edu/pit-for-meche-tim-gutowski/">Read More</a></p>
+                <br>
+                <img src="https://technologist.mit.edu/content/images/size/w2000/2024/05/headshot-faculty-Danielle-Wood-Profile-Photo-scaled-aspect-ratio-575-575-576x576-c-default-3223866163.jpg" alt="centered image" width="200" height="200"/>
+                <br>
+                 <h3>Satellite Technologies as Public Interest Tech: an Interview with Danielle Wood, Assistant Professor (Joint) of Aeronautics and Astronautics, and
+Assistant Professor of Media Arts and Sciences</h3>
+                <p><a href="https://technologist.mit.edu/pit-and-space-technology-danielle-wood/">Read More</a></p>
+
+                <br>
+                <img src="https://technologist.mit.edu/content/images/size/w2000/2024/05/Chris-Rabe-e1700575260324-916854262-1.jpg" alt="centered image" width="200" height="200"/>
+                <br>
+                 <h3>Climate Education’s Relationship to Public Interest Technology at MIT and Beyond: an interview with Chris Rabe, Postdoctoral Associate, MIT Environmental Solutions Initiative</h3>
+                <p><a href="https://the-public-interest-technologist-at-mit.ghost.io/ghost/#/editor/post/66427931709f8600012a591f">Read More</a></p>
+
+                <br>
+
+            </div>
+
+            <center>
+             <img  src="https://technologist.mit.edu/content/images/2023/05/pit-dark-logo-6.svg" alt="centered image" width="30" height="30"/>
+            </center>
+            <br>
+            <div class="article">
+                <h2>Latest Columns</h2>
+                   <br>
+            <img src="https://technologist.mit.edu/content/images/size/w2000/2024/05/bonvillian.jpeg" alt="centered image" width="200" height="200"/>
+            <br>
+                <h3>Could We Create a New Career Path for Advanced Manufacturing – the Technologist? by Bill Bonvillian, Lecturer in Science Technology and Society, and Political Science, and Jon Liu, Lecturer in Mechanical Engineering</h3>
+
+                <p> New career paths for "technologists" in advanced manufacturing, blends technical skills and engineering knowledge to meet the evolving demands of modern industrial and manufacturing systems.</p>
+                <p><a href="https://technologist.mit.edu/paths-for-technologists/">View Publication</a></p>
+
+                  <br>
+                  <br> 
+
+            <img src="https://technologist.mit.edu/content/images/size/w2000/2024/04/CGPastedGraphic-1-1.png" width="200" height="200"/>
+            <br>
+                <h3>Few-shot Learning and AI beyond Code by Claire Gorman, Dual Masters Candidate in City Planning and Computer Science</h3>
+
+                <p>As deep learning and artificial intelligence have improved dramatically, few-shot learning offers new forms of accessibility to AI models.</p>
+                <p><a href="https://technologist.mit.edu/few-shot-learning-and-ai-beyond-code/">View Publication</a></p>
+                <br>
+                <br> 
+              <h2>Publications</h2>
+                   <br>
+                   <img src="https://technologist.mit.edu/content/images/size/w2000/2024/05/Screen-Shot-2024-05-13-at-1.26.42-PM.png" alt="centered image" width="200" height="200"/>
+                 <br>
+                 <h3>PIT Student Initiative Spotlight @ MIT: Code for Good</h3>
+                <p> Code for Good is an MIT student group that brings students together with a wide-array of nonprofit organizations to solve interesting problems using computer science.</p>
+                <p><a href="https://technologist.mit.edu/code-for-good/">View Publication</a></p>
+            </div>
+             <center>
+             <img  src="https://technologist.mit.edu/content/images/2023/05/pit-dark-logo-6.svg" alt="centered image" width="30" height="30"/>
+            </center>
+            <br>
+            <div class="article">
+                <h2>PIT News and Events </h2>
+                <br>
+                 <h3>PIT Funding Opportunity: "RFP 2024: The Public Interest Technology University Network (PIT-UN) Challenge"</h3>
+                <p><a href="https://technologist.mit.edu/pitun-rfp-2024-grand-challenge/">Read More</a></p>
+                  <br>
+                <h3>PIT Community News: "The PIT UNiverse Newsletter"</h3>
+                <p><a href="https://technologist.mit.edu/pitun-newsletter-may-2024/">Read More</a></p>
+                  <br>
+                <h3>From the Press: "The One Thing That’s Holding Back the Heat Pump"</h3>
+                <p><a href="https://technologist.mit.edu/labor-for-heat-pumps/">Read More</a></p>
+                   <br>
+                 <h3>From the Press: "The Public Interest Technology Field Must Embrace Blackness, Faith & Justice to Build a Liberatory Future for All in the Age of AI"</h3>
+                <p><a href="https://technologist.mit.edu/racial-equity-and-pit/">Read More</a></p>
+                   <br>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>For more articles and content, visit our website and subscribe! <a href="technologist.mit.edu">technologist.mit.edu</a></p>
+            <br>
+            <p>Contact: <a href="pit@mit.edu"</a> pit@mit.edu</p>
+        </div>
+
+    </div>
+</body>
+</html>
